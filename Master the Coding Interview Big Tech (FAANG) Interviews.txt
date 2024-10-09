@@ -1,0 +1,261 @@
+Course Breakdown 
+Interview Question #1 Two Sum 
+How To Approach Our Problem 
+Writing Our Brute Force Solution 
+Testing Our Solution With Our Test Cases
+Submitting To Leetcode 
+Optimizing Our Solution 
+Coding Our Optimal Solution 
+Testing Our Optimal Solution With Our Test Cases 
+Checking Performance On LeetCode 
+Interview Question #2 - Container With Most Water 
+Coming Up With Test Cases 
+Thinking Through A Logical Brute Force Solution
+Coding Out Our Brute Force Solution 
+Stepping Through Our Code
+Thinking About Our Optimal Solution 
+Coding Our Optimal Solution And Testing On LeetCode 
+Interview Question #3 - Trapping Rainwater 
+Thinking About A Logical Solution 
+Coding Our Brute Force Solution 
+Figuring Out Our Optimization Strategy 
+Coding Our Optimal Solution
+Optimal Code And Testing On LeetCode 
+Interview Question #4 -Typed Out Strings
+Logic Of Our Brute Force Solution 
+Coding Our Brute Force Solution
+Space And Time Complexity
+Coming Up With Optimal Solution 
+Coding Our Optimal Solution
+Submitting To LeetCode
+Interview Question #5 - Longest Substring Without Repeating Characters 
+Coming Up With A Brute Force Approach 
+Coding Our Brute Force Solution 
+Space And Time Complexity 
+Sliding Window Technique 
+Hints For Optimizing Our Solution 
+Thinking About Optimal Solution 
+Coding Our Optimal Solution
+Optimal Code And Testing On LeetCode 
+Intro To Palindromes 
+Interview Question #6 - Valid Palindrome 
+Almost A Palindrome 
+Figuring Out Our Solution 
+Coding Our Solution 
+Linked List Introduction 
+Basic Algorithm: Reverse a Linked List 
+Thinking About Our Solution 
+Coding Reverse A Linked List Solution 
+Interview Question #7 - M, N Reversals 
+Coming Up With A Logical Solution
+Coding Our Solution 
+Interview Question #8 - Merge Multi-Level Doubly Linked List 
+Figuring Out Our Test Cases 
+Thinking About Our Approach 
+Coding Out Our Solution 
+Interview Question #9 - Cycle Detection 
+Floyd's Tortoise And Hare 
+Coding Floyd's Algorithm 
+Optional: Proof Of How Floyd's Algorithm Works
+Intro to Stacks and Queues
+Interview Question #10 - Valid Parentheses 
+Walking Through Our Problem - Identifying The Need For A Stack 
+Coding Our Solution With A Stack
+Interview Question #11 - Minimum Brackets To Remove 
+Thinking About Our Solution 
+Coding Our Solution 
+Question #12 - Implement Queue With Stacks 
+Figuring Out Our Solution 
+Coding Our Solution 
+Introducing Recursion 
+Optional: Tail Recursion 
+Sorting 
+Interview Question #13 - Kth Largest Element 
+Insights From Quick Sort
+Understanding Divide And Conquer 
+Coding Quicksort Into Our Solution 
+Understanding Hoare's Quickselect Algorithm
+Coding Our Solution With Quickselect 
+Understanding Binary Search 
+How To Code Binary Search
+Question #14 - Start And End Of Target In A Sorted Array 
+Walking Through Our Solution 
+Coding Our Solution 
+Intro to Binary Trees 
+Question #15 - Maximum Depth of Binary Tree 
+Learning The Process For Solving Binary Tree Problems
+Coding Our Solution 
+Question #16 - Level Order Of Binary Tree
+Walking Through Our Solution
+Coding Out Level Order Traversal
+Question #17 - Right Side View of Tree 
+Understanding The Breadth First Search Approach 
+Understanding The Depth First Search Approach 
+Thinking About Pre-Order, In-Order, and Post-Order Traversals For Our Solution 
+Completing Our DFS Solution 
+Coding Our Final DFS Solution 
+Question #18 - Number Of Nodes In Complete Tree
+Thinking Deeply About A Full Binary Tree 
+Figuring Out Number Of Nodes At Last Level 
+Coding Out Our Full Solution 
+Question #19 - Validate Binary Search Tree 
+Thinking About Our Logical Solution 
+Figuring Out Our Boundaries 
+Coding Our Our Full Solution 
+Introducing Heaps
+Insertion In Heaps - Understanding Sift Up
+Deletion In Heaps - Understanding Sift Down
+Starting To Code Our Priority Queue Class 
+Coding Our Insertion And Sift Up Methods 
+Coding Our Deletion And Sift Down Methods 
+Introducing 2D Arrays - What Are They? 
+Depth First Search In 2D-Arrays 
+Coding DFS - Setting Up For DFS 
+Coding DFS - Implementing Recursive DFS 
+Breadth First Search In 2D-Arrays
+Coding BFS 
+A General Approach To Thinking About Most Graph Questions
+Question #20 Number Of Islands 
+Approaching Our Problem - Thinking Deeply About The Values 
+Approaching Our Problem - Thinking About Traversals
+Coding Our Solution 
+Thinking About Space And Time Complexity 
+Question #21 Rotting Oranges
+Figuring Out Our Initial Logic 
+Figuring Out The Rest Of Our Solution 
+Coding Out Our Solution 
+Question #22 - Walls And Gates 
+Figuring Out Our Logical Solution 
+Coding Out Our Solution 
+Introduction To The Types Of Graphs 
+Representing Our Graphs - Adjacency List & Adjacency Matrix 
+Breadth First Search In Graphs 
+Coding BFS 
+Depth First Search In Graphs 
+Coding DFS 
+Question #23 - Time Needed to Inform All Employees 
+Verifying Our Constraints And Thinking About Test Cases 
+How To Represent Our Graph As An Adjacency List 
+Solving Our Problem Logically Using DFS Traversal 
+Coding Our DFS Solution
+Question #24 - Course Scheduler 
+Thinking About Our Initial Solution - BFS 
+Coding Out Our Initial BFS Solution 
+What is Topological Sort? 
+Thinking About A Solution With Topological Sort
+Coding Our Final Solution 
+Question #25 - Network Time Delay 
+Thinking About How To Approach The Problem 
+Greedy Method & What Is Dijkstra's Algorithm? 
+Thinking About A Solution With Dijkstra's Algorithm 
+Coding Our Solution With Dijkstra
+Thinking About Time And Space Complexity Of Our Solution 
+What is The Bellman-Ford Algorithm? - Conceptualizing Dynamic Programming 
+What is The Bellman-Ford Algorithm? - The Algorithm Itself 
+Coding Our Solution With Bellman-Ford 
+Question #26 - Minimum Cost Of Climbing Stairs & How To Approach DP
+Understanding & Identifying Recurrence Relation 
+First Step - Recursive Solution From Recurrence Relation
+Second Step - Memoizing Our Redundant Recursive Calls 
+Coding Our Memoization Optimization 
+Understanding The Bottom Up Approach (Tabulation) 
+Third Step - Bottom Up Tabulation 
+Fourth Step - Bottom Up Optimization 
+Question #27 - Knight Probability In Chessboard 
+Thinking About Test Cases To Help Us 
+Identifying The Recurrence Relation
+First Step - Recursive Solution From Recurrence Relation 
+Second Step - Memoizing Our Redundant Recursive Calls 
+Figuring Out The Logic For Our Bottom Up Solution 
+Third Step - Bottom Up Tabulation 
+Fourth Step - Bottom Up Optimization 
+Understanding The Basics Of Backtracking 
+Question #28 - Sudoku Solver 
+Learning The Backtracking Template 
+Applying Our Backtracking Template To Sudoku Solver Logic
+Coding How To Get Box ID 
+Setting Up Our Solution Code 
+Coding The Recursive Backtracking Portion Of Our Solution 
+Thinking About The Space And Time Complexity 
+Understanding Interface Design & Question #29 - Monarchy
+Figuring Out Our Test Cases 
+Thinking About The Logical Of The Monarchy 
+Coding Our Monarchy Solution 
+Introducing Tries 
+Question #30 - Implement Prefix Trie 
+Understanding The Logic For Our Methods
+Implementing Our Prefix Trie Data Structure Solution 
+Section Overview 
+What Is Good Code?
+Big O and Scalability
+O(n) 
+O(1) 
+Solution: Big O Calculation 
+Solution: Big O Calculation 2
+Simplifying Big O 
+Big O Rule 1 
+Big O Rule 2 
+Big O Rule 3 
+O(n^2)
+Big O Rule 4 
+Big O Cheat Sheet 
+What Does This All Mean? 
+O(n!) 
+3 Pillars Of Programming
+Space Complexity 
+Exercise: Space Complexity 
+Exercise: Twitter
+Section Summary 
+Arrays Introduction 
+Static vs Dynamic Arrays 
+Optional: Implementing An Array 
+Hash Tables Introduction
+Hash Function 
+Hash Collisions 
+Hash Tables VS Arrays 
+Linked Lists Introduction
+What Is A Linked List? 
+Exercise: Why Linked Lists? 
+Solution: Why Linked Lists? 
+What Is A Pointer? 
+Doubly Linked Lists 
+Singly VS Doubly Linked Lists 
+Linked Lists Review 
+Stacks + Queues Introduction 
+Stacks 
+Queues 
+Exercise: Stacks VS Queues 
+Solution: Stacks VS Queues 
+Stacks + Queues Review 
+Trees Introduction
+Binary Trees 
+O(log n) 
+Binary Search Tree 
+Balanced VS Unbalanced BST 
+BST Pros and Cons
+Trie
+Graph + Tree Traversals
+BFS Introduction
+DFS Introduction 
+BFS vs DFS 
+Exercise: BFS vs DFS
+Solution: BFS vs DFS
+Recursion Introduction 
+Stack Overflow 
+Anatomy Of Recursion 
+Recursive VS Iterative 
+When To Use Recursion 
+Recursion Review 
+Sorting Introduction
+The Issue With sort() 
+Sorting Algorithms
+Bubble Sort 
+Solution: Bubble Sort 
+Selection Sort 
+Solution: Selection Sort 
+Dancing Algorithms 
+Insertion Sort 
+Solution: Insertion Sort 
+Merge Sort and O(n log n) 
+Solution: Merge Sort 
+Quick Sort 
