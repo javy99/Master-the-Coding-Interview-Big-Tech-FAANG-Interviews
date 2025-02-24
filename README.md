@@ -80,33 +80,18 @@ The course is structured into multiple sections, each covering key problem-solvi
 
 ## 📁 Repository Structure
 ```
-📂 coding-interview-prep
- ┣ 📂 arrays-hashing
- ┃ ┣ 📜 two_sum.py
- ┃ ┣ 📜 container_with_most_water.py
- ┃ ┗ 📜 trapping_rainwater.py
- ┣ 📂 linked-lists
- ┃ ┣ 📜 reverse_linked_list.py
- ┃ ┣ 📜 cycle_detection.py
- ┃ ┗ 📜 merge_multilevel_doubly_linked_list.py
- ┣ 📂 stacks-queues
- ┃ ┣ 📜 valid_parentheses.py
- ┃ ┗ 📜 implement_queue_with_stacks.py
- ┣ 📂 trees-graphs
- ┃ ┣ 📜 maximum_depth_of_binary_tree.py
- ┃ ┗ 📜 number_of_islands.py
- ┣ 📂 dynamic-programming
- ┃ ┗ 📜 min_cost_climbing_stairs.py
- ┣ 📂 sorting-searching
- ┃ ┗ 📜 quicksort.py
- ┣ 📂 tries
- ┃ ┗ 📜 implement_prefix_trie.py
- ┣ 📂 backtracking
- ┃ ┗ 📜 sudoku_solver.py
- ┣ 📂 big-o-analysis
- ┃ ┗ 📜 big_o_rules.md
+📂 Master-the-Coding-Interview-Big-Tech-FAANG-Interviews
+ ┣ 📂 2. Arrays - Question #1 Google Interview Question Two Sum (Easy)
+ ┃ ┗ 📜 index.js
+ ┣ 📂 3. Arrays - Question #2 - Container With Most Water (Medium)
+ ┃ ┗ 📜 index.js
+ ┣ 📂 4. Arrays - Question #3 - Trapping Rainwater (Hard)
+ ┃ ┗ 📜 index.js
+ ┣ 📂 ......
+ ┃ ┗ 📜 index.js
+ ┣ 📜 Master the Coding Interview Big Tech (FAANG) Interviews.txt
  ┣ 📜 README.md
- ┗ 📜 CONTRIBUTING.md
+ ┗ 📜 zerotomastery.io - Mastering the Coding Interview (FAANG) - Course Outline.pdf 
 ```
 
 ## 🚀 How to Use This Repo
