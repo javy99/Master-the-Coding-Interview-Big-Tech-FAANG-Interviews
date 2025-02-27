@@ -3,8 +3,8 @@ const directions = [
   [-1, 0], // up
   [0, 1], // right
   [1, 0], // down
-  [0, -1],
-]; // left
+  [0, -1], // left
+];
 const ROTTEN = 2;
 const FRESH  = 1;
 const EMPTY  = 0;
