@@ -35,7 +35,7 @@ const canFinish = function (n, prerequisites) {
 
 /**
  * This function is optimized solution to use Topological Sorting (Kahn's Algorithm using BFS) to solve the problem. Topological Sorting is a linear ordering of vertices such that for every directed edge u -> v, vertex u comes before v in the ordering. The function takes in the number of courses and a list of prerequisites. The prerequisites list is a list of pairs where the first element is the prerequisite course and the second element is the course that depends on the prerequisite course. The function returns true if it is possible to finish all courses and false otherwise.
- * 
+ * Our solution's time complexity is 0(P + N) where P is the number of prerequisites and N is the number of courses. The space complexity is 0(N) where N is the number of courses
  * @param {number} n
  * @param {number[][]} prerequisites
  * @returns {boolean}
